@@ -1,0 +1,2 @@
+WIDTH = 1120
+HEIGHT = 700
