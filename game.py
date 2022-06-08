@@ -14,7 +14,7 @@ window = Window("Найди предметы", WIDTH, HEIGHT)
 
 canvas = Canvas(window, WIDTH, HEIGHT)
 
-  
+
 
 menu_buttons = []
 background = NewImg(canvas, "images/background.png", 0, 0)
