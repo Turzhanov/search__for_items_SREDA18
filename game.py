@@ -14,7 +14,11 @@ window = Window("Найди предметы", WIDTH, HEIGHT)
 
 canvas = Canvas(window, WIDTH, HEIGHT)
 
+<<<<<<< HEAD
 print('тимофей')
+=======
+ print("Данила") 
+>>>>>>> test_green
 
 menu_buttons = []
 background = NewImg(canvas, "images/background.png", 0, 0)
